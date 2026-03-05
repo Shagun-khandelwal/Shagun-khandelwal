@@ -48,17 +48,19 @@
 
 **Programming**
 
-Python
+- PySpark
+  
+- Python
 
-SQL
+- SQL
 
 **Tools**
 
-Git & GitHub
+- Git & GitHub
 
-Databricks Workflows
+- Databricks Workflows
 
-Jupyter / Databricks Notebooks
+- Jupyter / Databricks Notebooks
 
 📂 **What You'll Find in My GitHub**
 
