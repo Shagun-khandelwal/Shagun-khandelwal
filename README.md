@@ -84,6 +84,7 @@
 **Linkedin:** https://www.linkedin.com/in/shagun-khandelwal-96a94620a/
 **Skype:** https://join.skype.com/invite/yfGOtrpFQKyd
 
+📝 **You can also find my blogs on:-** https://medium.com/@kshagun02
 <!---
 Shagun-khandelwal/Shagun-khandelwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
