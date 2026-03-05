@@ -46,14 +46,6 @@
 
 - Data Lakehouse
 
-**Programming**
-
-- PySpark
-  
-- Python
-
-- SQL
-
 **Tools**
 
 - Git & GitHub
