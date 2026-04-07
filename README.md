@@ -1,87 +1,74 @@
-👋 **Hi, I'm Shagun Khandelwal**
+# 👋 Hi, I'm Shagun Khandelwal
 
-💡 **Data Engineer passionate** about building scalable data platforms and end-to-end data pipelines.
+Data Engineer passionate about building scalable data platforms and end-to-end data pipelines.
 
-🚀 **About Me**
+## 🚀 About Me
+💡 Data Engineer with 2+ years of experience designing cloud-native data pipelines and scalable data platforms. <br>
+👨‍💻 I specialize in building high-performance ETL/ELT workflows using PySpark and SQL within the Azure ecosystem. <br>
+🧠 Strong focus on problem-solving (DSA in Python) and system design for scalable systems.
 
-- Data Engineer with **2+ years of experience** designing cloud-native data pipelines
+---
 
-- Experienced in building **scalable ETL/ELT** workflows using **PySpark** and **SQL**
+## 🔹 Key Highlights
 
-- Hands-on with **Azure Data Engineering** stack including **Azure Databricks** and **Data Factory**
+- ⚡ Built scalable ETL pipelines using PySpark & Azure Databricks  
+- 🔁 Designed incremental data pipelines with schema enforcement  
+- 🏗️ Implemented Medallion Architecture (Bronze → Silver → Gold)  
+- 📊 Worked on large-scale distributed data processing and performance optimization
+- 🧠 Regularly solving DSA problems on LeetCode using Python
+---
 
-- Strong understanding of **Medallion Architecture (Bronze → Silver → Gold)** for reliable data processing
+## 🛠️ Tech Stack
 
-- Experienced in building **incremental data pipelines** with schema enforcement, data validation, and transformations
+### 💻 Data Engineering
+`PySpark` • `SQL` • `Apache Spark` • `Delta Lake`
 
-- Skilled in **large-scale data processing**, performance optimization, and distributed computing
+### ☁️ Cloud & Big Data
+`Azure Databricks` • `Azure Data Factory` • `ADLS / Blob Storage`
 
-- Passionate about **data platform design**, data lake architectures, and real-time data systems
+### 🏗️ Data Architecture
+`Medallion Architecture` • `ETL / ELT Pipelines` • `Lakehouse`
 
-🛠️ **Tech Stack**
+### ⚙️ Tools
+`Git & GitHub` • `Databricks Workflows` • `Jupyter Notebooks`
 
-**Data Engineering**
+---
 
-- PySpark
+## 📂 What You'll Find Here
 
-- SQL
+- 🚀 End-to-End Azure Data Engineering Projects  
+- 🔄 Real-world ETL pipeline implementations  
+- ⚡ Databricks + PySpark use cases  
+- 🏗️ Lakehouse architecture implementations  
+- 📊 Data modeling & transformation workflows  
+- 🧠 **[Data Structure Implementations](https://github.com/Shagun-khandelwal/Data-Stucture-Implementations)** Daily LeetCode solutions in Python covering DSA patterns
+---
 
-- Apache Spark
+## 📈 Current Focus
 
-- Delta Lake
+- 🏭 Building production-grade data pipelines  
+- ⚡ Exploring real-time data processing  
+- 📊 Improving performance & scalability  
+- 🏗️ Designing modern lakehouse architectures  
+- 🧠 Learning System Design (scalability, distributed systems)
+---
 
-**Cloud & Big Data**
+## 🎓 Certifications
 
-- Azure Databricks
+[![Databricks Certification](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-red?logo=databricks&logoColor=white)](https://credentials.databricks.com/3806bffd-fe40-4af8-a510-6ed15b1bbb17#acc.LgvclbSz)
 
-- Azure Data Factory
+-  Databricks Certified Data Engineer Associate
+-  Infosys Certified Databricks Analyst
+-  Infosys Certified PySpark Professional
+-  Infosys Certified Cloud Beginner
+-  Infosys Certified Python Associate
+  
+---
 
-- Azure Data Lake / Blob Storage
+## 📫 Meanwhile, you can find me on:-
 
-**Data Architecture**
-
-- Medallion Architecture
-
-- ETL / ELT Pipelines
-
-- Data Lakehouse
-
-**Tools**
-
-- Git & GitHub
-
-- Databricks Workflows
-
-- Jupyter / Databricks Notebooks
-
-📂 **What You'll Find in My GitHub**
-
-- End-to-End Azure Data Engineering Projects
-
-- Real-world ETL pipeline implementations
-
-- Databricks + PySpark projects
-
-- Lakehouse architecture implementations
-
-- Data modeling and transformation workflows
-
-- Production-style data pipeline design
-
-📈 **Current Focus**
-
-- Building production-grade data pipelines
-
-- Exploring real-time data processing
-
-- Improving data pipeline performance and scalability
-
-- Designing modern lakehouse architectures
- 
-📫 **Meanwhile you can find me on**:-
-
-**Email:** kshagun02@gmail.com
-**Linkedin:** https://www.linkedin.com/in/shagun-khandelwal-96a94620a/
+**Email:** kshagun02@gmail.com <br>
+**Linkedin:** https://www.linkedin.com/in/shagun-khandelwal-96a94620a/ <br>
 **Skype:** https://join.skype.com/invite/yfGOtrpFQKyd
 
 📝 **You can also find my blogs on:-** https://medium.com/@kshagun02
